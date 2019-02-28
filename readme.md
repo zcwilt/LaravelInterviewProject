@@ -2,9 +2,12 @@
 
 ## Quick Installation
 
-    git clone https://github.com/laravel/quickstart-basic quickstart
+    git clone https://github.com/mikewubbleyou/LaravelInterviewProject LaravelInterviewProject
 
-    cd quickstart
+    cd LaravelInterviewProject
+    
+    cp .env.example .env
+    # Now update .env to reflect your own environment
 
     composer install
 
