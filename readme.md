@@ -17,8 +17,9 @@
 
 # Requirements
 
-1. Fork this project into your own Github account
-   1. You may leave the project as public, or add the GitHub account `mikewubbleyou` as a collaborator.
+1. Clone this project into your own Github account
+   1. You may leave the project as public, or add the GitHub account `mikewubbleyou` as a collaborator
+   if you wish to keep your repo private.
 1. Add user authentication
    1. Ensure all routes other than auth routes are protected against unauthorised users
    1. Add controllers, routes, models and views as appropriate to allow new users to be created. 
