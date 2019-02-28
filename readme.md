@@ -14,6 +14,8 @@
 
 # Requirements
 
+1. Fork this project into your own Github account
+   1. You may leave the project as public, or add the GitHub account `mikewubbleyou` as a collaborator.
 1. Add user authentication
    1. Ensure all routes other than auth routes are protected against unauthorised users
    1. Add controllers, routes, models and views as appropriate to allow new users to be created. 
@@ -25,3 +27,4 @@
 1. Other than "High Priority" tasks, tasks should be visible only to the user who created them.
 1. Adhere to PSR1/2 style guidelines
 1. Within the constraints of the requirements, adhere to current best practice in developing a secure Laravel application.
+1. Upon completion, email `mike@wubbleyou.co.uk` with details of your GitHub repository.
