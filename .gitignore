@@ -5,3 +5,6 @@ Homestead.yaml
 Homestead.json
 .env
 keys/
+.devilbox
+.idea
+
