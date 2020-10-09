@@ -9,6 +9,8 @@
     cp .env.example .env
     # Now update .env to reflect your own environment
 
+    php artisan key:generate
+
     composer install
 
     php artisan migrate
